@@ -1,0 +1,123 @@
+INFO 2024-03-14 18:48:08,292 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 18:48:13,484 (line ==212) "POST /api/register/ HTTP/1.1" 400 141
+INFO 2024-03-14 18:49:35,385 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 18:49:36,890 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 18:49:44,873 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 18:49:46,697 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 18:49:50,978 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 18:49:52,480 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 18:49:57,816 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 18:49:59,101 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 18:50:07,504 (line ==212) "POST /api/register/ HTTP/1.1" 400 157
+INFO 2024-03-14 18:50:50,573 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 18:50:52,022 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 18:51:40,655 (line ==212) "POST /api/register/ HTTP/1.1" 400 141
+WARNING 2024-03-14 18:52:32,179 (line ==212) "POST /api/register/ HTTP/1.1" 400 141
+INFO 2024-03-14 18:54:36,119 (line ==266) D:\Django-task\ImageUpload\ImageUpload\settings.py changed, reloading.
+INFO 2024-03-14 18:54:38,191 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 18:54:53,057 (line ==266) D:\Django-task\ImageUpload\ImageUpload\settings.py changed, reloading.
+INFO 2024-03-14 18:54:54,644 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 18:55:10,968 (line ==212) "POST /api/register/ HTTP/1.1" 400 141
+INFO 2024-03-14 19:03:04,287 (line ==266) D:\Django-task\ImageUpload\UserImage\models.py changed, reloading.
+INFO 2024-03-14 19:03:07,305 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:04:50,636 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:05:22,673 (line ==212) "POST /api/register/ HTTP/1.1" 400 141
+INFO 2024-03-14 19:06:03,530 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:06:05,173 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:06:37,756 (line ==212) "POST /api/register/ HTTP/1.1" 400 1453
+INFO 2024-03-14 19:07:42,576 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:07:44,445 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:08:38,118 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:08:40,248 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:08:44,543 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:08:46,141 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:08:55,183 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:08:57,329 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:09:04,574 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:09:07,203 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:09:11,941 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:09:14,417 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:09:19,113 (line ==212) "POST /api/register/ HTTP/1.1" 400 151
+INFO 2024-03-14 19:09:42,488 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:09:43,945 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:09:47,130 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:09:51,405 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:09:53,130 (line ==212) "POST /api/register/ HTTP/1.1" 400 131
+INFO 2024-03-14 19:10:04,207 (line ==266) D:\Django-task\ImageUpload\UserImage\serializers.py changed, reloading.
+INFO 2024-03-14 19:10:08,134 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:10:11,820 (line ==212) "POST /api/register/ HTTP/1.1" 400 170
+INFO 2024-03-14 19:10:13,912 (line ==81) - Broken pipe from ('127.0.0.1', 55391)
+WARNING 2024-03-14 19:10:23,392 (line ==212) "POST /api/register/ HTTP/1.1" 400 129
+INFO 2024-03-14 19:11:18,224 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:11:20,164 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:11:45,144 (line ==212) "POST /api/register/ HTTP/1.1" 400 170
+WARNING 2024-03-14 19:11:56,549 (line ==212) "POST /api/register/ HTTP/1.1" 400 129
+INFO 2024-03-14 19:13:56,735 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:14:00,276 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:14:05,909 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:14:08,693 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:14:10,375 (line ==212) "POST /api/register/ HTTP/1.1" 400 170
+WARNING 2024-03-14 19:14:17,483 (line ==212) "POST /api/register/ HTTP/1.1" 400 129
+INFO 2024-03-14 19:14:51,851 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:14:55,100 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:14:58,969 (line ==266) D:\Django-task\ImageUpload\UserImage\email.py changed, reloading.
+INFO 2024-03-14 19:15:01,485 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:15:07,639 (line ==266) D:\Django-task\ImageUpload\UserImage\email.py changed, reloading.
+INFO 2024-03-14 19:15:11,209 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:15:16,028 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:15:18,840 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:15:27,929 (line ==212) "POST /api/register/ HTTP/1.1" 201 299
+INFO 2024-03-14 19:15:44,823 (line ==212) "GET /media/media/Screenshot_29_kIbYgIq.png HTTP/1.1" 200 357804
+INFO 2024-03-14 19:17:12,794 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:17:16,088 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:17:24,247 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:17:25,994 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:17:30,058 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:17:34,042 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:17:38,915 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:17:41,028 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:17:56,534 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:17:58,426 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:18:58,437 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:19:00,267 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:19:18,495 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:19:20,552 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:19:57,482 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:20:00,929 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:20:04,486 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:20:06,860 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:20:11,937 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:20:14,128 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:20:21,118 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:20:22,698 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:20:53,419 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:20:55,743 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:21:00,970 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:21:03,721 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:21:06,265 (line ==212) "POST /api/register/ HTTP/1.1" 400 170
+INFO 2024-03-14 19:21:20,814 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:21:24,011 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:21:26,372 (line ==212) "POST /api/register/ HTTP/1.1" 400 127
+INFO 2024-03-14 19:21:51,367 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:21:52,805 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:22:02,130 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:22:04,910 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:22:14,896 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:22:16,510 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:22:22,759 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:22:24,522 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:22:52,195 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:22:55,291 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:22:58,568 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:23:00,266 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:25:05,228 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:25:07,000 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:25:28,412 (line ==266) D:\Django-task\ImageUpload\UserImage\views.py changed, reloading.
+INFO 2024-03-14 19:25:30,094 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:28:13,261 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 19:28:15,135 (line ==668) Watching for file changes with StatReloader
+INFO 2024-03-14 19:28:23,362 (line ==266) D:\Django-task\ImageUpload\UserImage\image.py changed, reloading.
+INFO 2024-03-14 19:28:25,751 (line ==668) Watching for file changes with StatReloader
+WARNING 2024-03-14 19:28:48,593 (line ==212) "POST /api/register/ HTTP/1.1" 400 170
+INFO 2024-03-14 19:29:06,799 (line ==212) "POST /api/register/ HTTP/1.1" 201 292
+INFO 2024-03-14 19:29:14,612 (line ==212) "GET /media/media/Screenshot_31.png HTTP/1.1" 200 380090
